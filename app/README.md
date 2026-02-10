@@ -1,6 +1,6 @@
 # 📚 Flashcard Quiz App
 
-Flashcard Quiz App is an Android application developed using **Java** in **Android Studio**.  
+Flashcard Quiz App is an Android application developed using Java in Android Studio.  
 The app helps users study effectively using customizable flashcards.
 
 ## ✨ Features
